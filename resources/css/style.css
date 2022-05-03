@@ -22,5 +22,10 @@ body {
 }
 .header--final {
   font-size: 21px;
-  color: grey;
+  color: gray;
+}
+.footer--final {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
 }
